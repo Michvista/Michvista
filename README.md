@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michvista&label=Profile%20views&color=0e75b6&style=flat" alt="michvista" /> </p>
 
