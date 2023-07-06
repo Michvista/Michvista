@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/michvista09" target="blank"><img src="https://img.shields.io/twitter/follow/michvista09?logo=twitter&style=for-the-badge" alt="michvista09" /></a> </p>
 
-- 🔭 I’m currently working on *Enhanzer*
+- 🔭 I’m currently working on *Portfolio*
 
 - 🌱 I’m currently learning *Python*
 
