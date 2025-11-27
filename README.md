@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning app development **react native**
 
-- 👨‍💻 All of my projects are available at [temporary: https://my-portfolio-michvista.vercel.app/](temporary: https://my-portfolio-michvista.vercel.app/)
+- 👨‍💻 All of my projects are available at [temporary: https://michvista09-portfolio.vercel.app/](temporary: https://my-portfolio-michvista.vercel.app/)
 
 - 📝 I regularly write articles on [null](null)
 
