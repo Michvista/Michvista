@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/michvista" target="blank"><img src="https://img.shields.io/twitter/follow/michvista?logo=twitter&style=for-the-badge" alt="michvista" /></a> </p>
 
-- 🔭 I’m currently working on building apps **cookery**
+- 🔭 I’m currently working on building mind blowing apps
 
-- 🌱 I’m currently learning app development **react native**
+- 🌱 I’m currently learning clean code
 
-- 👨‍💻 All of my projects are available at [temporary: https://michvista09-portfolio.vercel.app/](temporary: https://my-portfolio-michvista.vercel.app/)
+- 👨‍💻 All of my projects are available at https://michvista-portfolio-18.vercel.app/
 
 - 📝 I regularly write articles on [null](null)
 
-- 📄 Know about my experiences [null](null)
+- 📄 Know about my experiences from my twitter 
 
 - ⚡ Fun fact **I think I'm tall and funny**
 
